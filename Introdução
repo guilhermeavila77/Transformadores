@@ -1,0 +1,22 @@
+- Transformadores:
+
+  Pode ser elevadores ou abaixadores
+
+  Quando a tensão de entrada é maior que na saida o transformador é abaixador e o contrario é valido
+  
+  A relação de espiras do primario com o secundário chamado de razão  de transformação
+ 
+  Diferença entre a transmição alternada e continua é:
+    Alternada é possivel transmitir durante uma distancia maior
+    Continua seria necessario uma subestação durante a lnha de transmição
+  
+  Perdas nos transformadores
+    Joules - Aquecimento
+    Histerese - Quando energizados e desenergisamos o transformador existe um campo residencial que causa esse efeito
+    
+   Exercicio 1: 
+    254 V para 200 espiras no primario com 127 de tensão e 400 espiras no secundario.
+    
+   Exercicio 2:
+     
+    
